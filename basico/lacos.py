@@ -1,7 +1,9 @@
 x = [10,1,21,2,13,1,1,3,13,13];
+x.sort;
 
 for y in x:
-    print(y);
+
+    print(y)
 
 print();
 
